@@ -15,7 +15,7 @@ Ce dépôt documente la mise en place complète d'un environnement de stockage r
 - Processeur : 2 cœurs
 - RAM : 4 Go
 - Stockage Système : 2 x 16 Go
-- Stockage de Données : 5 disques de 2 To configurés en RAID 6 logiciel (ZFS RAID-Z2).
+- Stockage de Données : 5 disques de 10 G configurés en RAID 6 logiciel (ZFS RAID-Z2).
 
 ### Objectif : Tolérance de panne de 2 disques simultanés avec le pool nommé "Stockage".
 
