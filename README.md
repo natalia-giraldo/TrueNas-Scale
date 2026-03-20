@@ -6,6 +6,7 @@ Formation : Bachelor IT en Cybersécurité
 Durée : 1 semaine Établissement : La plateforme_
 
 Ce dépôt documente la mise en place complète d'un environnement de stockage réseau (NAS) basé sur TrueNAS SCALE, incluant la configuration de volumes RAID sécurisés, l'exposition de services critiques (SSH, SFTP, HTTPS) et l'intégration de solutions de virtualisation et conteneurisation (Docker/Vaultwarden).
+
 ---
 
 # 🏗️ Architecture du Projet
